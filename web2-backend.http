@@ -1,0 +1,6 @@
+@web2_backend_HostAddress = http://localhost:5276
+
+GET {{web2_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
